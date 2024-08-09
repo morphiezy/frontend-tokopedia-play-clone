@@ -2,6 +2,8 @@
 
 Tokopedia Play Clone Frontend is the user interface component of the GoTo Impact - Generasi Gigih 3.0 project. This project utilizes React JS technology to create an interactive and dynamic web application that interacts with the backend server to provide a seamless user experience.
 
+[Backend Repostory](https://github.com/morphiezy/tokopedia-play-clone)
+
 ## Feature
 
 - [x] Authentication
